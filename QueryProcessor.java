@@ -1,3 +1,4 @@
+package com.talentica.cube.qEngine;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,7 +9,7 @@ import java.net.URL;
 
 
 
-public class sample {
+public class QueryProcessor {
 
 	static String delim = "#&#abz#&#";
 	static String apikey = "2ABRKGHYY5RQYA9HZ03527G8A";
